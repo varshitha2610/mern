@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/varshitha2610/mern.git/static/css/main.03665633.css",
+    "main.js": "/varshitha2610/mern.git/static/js/main.c5e987e7.js",
+    "static/js/453.7cc2c848.chunk.js": "/varshitha2610/mern.git/static/js/453.7cc2c848.chunk.js",
+    "static/media/profile.png": "/varshitha2610/mern.git/static/media/profile.f259a0e683afa134b074.png",
+    "index.html": "/varshitha2610/mern.git/index.html",
+    "main.03665633.css.map": "/varshitha2610/mern.git/static/css/main.03665633.css.map",
+    "main.c5e987e7.js.map": "/varshitha2610/mern.git/static/js/main.c5e987e7.js.map",
+    "453.7cc2c848.chunk.js.map": "/varshitha2610/mern.git/static/js/453.7cc2c848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03665633.css",
+    "static/js/main.c5e987e7.js"
+  ]
+}
